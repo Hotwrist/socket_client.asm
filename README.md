@@ -8,8 +8,8 @@ This repository contains a **TCP socket client** written in **x86 Assembly** and
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/hotwrist/socket_client.git
-cd repository-name
+git clone https://github.com/hotwrist/socket_client_and_server.git
+cd socket_client_and_server
 ```
 
 ### 2️⃣ Compile the Server (C)
